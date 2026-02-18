@@ -1,6 +1,7 @@
 # Grey Dark Theme
-A lower contrast dark grey theme for Visual Studio 2022
+A lower contrast dark grey theme for Visual Studio 2026
 
+Based on https://github.com/gluks/vs-theme-grey-dark
 Based on [Dark 2019 theme](https://github.com/madskristensen/DarkTheme2019)
 
 ## Font

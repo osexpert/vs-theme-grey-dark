@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="GreyDarkTheme2026.af167250-46e3-483a-8051-a7400b189cc1" Version="1.0" Language="en-US" Publisher="Contoso Corporation" />
+        <Identity Id="GreyDarkTheme2026.af167250-46e3-483a-8051-a7400b189cc1" Version="1.1" Language="en-US" Publisher="Contoso Corporation" />
         <DisplayName>Grey Dark Theme 2026</DisplayName>
-        <Description xml:space="preserve">A dark grey theme for Visual Studio 2026</Description>
+        <Description xml:space="preserve">A dark grey theme for Visual Studio 2026.
+In addition, I personally set Visible White Space color to RGB 100, 100, 100 (manually).</Description>
         <MoreInfo>https://github.com/gluk/vs-theme-grey-dark</MoreInfo>
         <Icon>icon.png</Icon>
         <Tags>dark, grey, theme, themes</Tags>
@@ -17,7 +18,7 @@
         <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
     </Dependencies>
     <Prerequisites>
-        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0, 18.0)" DisplayName="Visual Studio core editor" />
     </Prerequisites>
     <Assets>
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />

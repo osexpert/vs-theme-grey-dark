@@ -1,9 +1,9 @@
 ﻿<Themes>
-	<Theme Name="Grey Dark" GUID="{9af57191-2bbe-4d8c-b2ef-5d14bba4886e}" BaseGUID="{2608e5c1-8eb2-4483-b34c-2afb274fa564}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+	<Theme Name="Grey Dark 2026" GUID="{92b0b4dc-abd2-4fac-9c16-92bafb78f628}" BaseGUID="{2608e5c1-8eb2-4483-b34c-2afb274fa564}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
 
 		<!-- VS 2026 Semantic Token Categories -->
 		<Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
-			<!-- Accent: purple tone from the Grey Dark palette (Chevron / NumberedListItem) -->
+			<!-- Accent: blue-grey tone from the Grey Dark palette (Chevron / NumberedListItem) -->
 			<Color Name="AccentFillDefault">
 				<Background Type="CT_RAW" Source="FF3F667F" />
 			</Color>

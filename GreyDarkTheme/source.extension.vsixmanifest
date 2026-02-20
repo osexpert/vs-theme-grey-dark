@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="GreyDarkTheme2026.af167250-46e3-483a-8051-a7400b189cc1" Version="1.1" Language="en-US" Publisher="Contoso Corporation" />
+        <Identity Id="GreyDarkTheme2026.af167250-46e3-483a-8051-a7400b189cc1" Version="1.2" Language="en-US" Publisher="Contoso Corporation" />
         <DisplayName>Grey Dark Theme 2026</DisplayName>
         <Description xml:space="preserve">A dark grey theme for Visual Studio 2026.
-In addition, I personally set Visible White Space color to RGB 100, 100, 100 (manually).</Description>
+
+Based on:
+https://marketplace.visualstudio.com/items?itemName=gluk.grey-dark-theme
+https://github.com/gluk/vs-theme-grey-dark
+
+Difference: Visible White Space is changed to RGB 100,100,100 (FF646464)</Description>
         <MoreInfo>https://github.com/gluk/vs-theme-grey-dark</MoreInfo>
         <Icon>icon.png</Icon>
         <Tags>dark, grey, theme, themes</Tags>

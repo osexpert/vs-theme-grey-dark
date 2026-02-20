@@ -1,0 +1,50 @@
+﻿<Themes>
+	<Theme Name="Grey Dark 2026" GUID="{36099fbc-0118-438d-8eaa-ec4d258c0f17}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+
+				
+		
+		<!-- VS 2026 Semantic Token Categories -->
+		<Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
+			<!-- Accent: blue-grey tone from the Grey Dark palette (Chevron / NumberedListItem) -->
+			<Color Name="AccentFillDefault">
+				<Background Type="CT_RAW" Source="FF3F667F" />
+			</Color>
+			<Color Name="AccentFillSecondary">
+				<Background Type="CT_RAW" Source="803F667F" />
+			</Color>
+			<Color Name="AccentFillTertiary">
+				<Background Type="CT_RAW" Source="CC3F667F" />
+			</Color>
+			<!-- Background tiers — stepped greys from the theme palette -->
+			<Color Name="SolidBackgroundFillTertiary">
+				<Background Type="CT_RAW" Source="FF3C3C3C" />
+			</Color>
+			<Color Name="SolidBackgroundFillQuaternary">
+				<Background Type="CT_RAW" Source="FF404040" />
+			</Color>
+			<Color Name="SurfaceBackgroundFillDefault">
+				<Background Type="CT_RAW" Source="FF454545" />
+			</Color>
+			<Color Name="TextFillSecondary">
+				<Background Type="CT_RAW" Source="C8C4C4C4" />
+			</Color>
+		</Category>
+		<Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
+			<Color Name="EnvironmentBackground">
+				<Background Type="CT_RAW" Source="FF383838" />
+			</Color>
+			<Color Name="EnvironmentBorder">
+				<Background Type="CT_RAW" Source="FF3F667F" />
+			</Color>
+			<Color Name="EnvironmentIndicator">
+				<Background Type="CT_RAW" Source="66C4C4C4" />
+			</Color>
+			<Color Name="EnvironmentLogo">
+				<Background Type="CT_RAW" Source="FF3F667F" />
+			</Color>
+			<Color Name="EnvironmentLayeredBackground">
+				<Background Type="CT_RAW" Source="803C3C3C" />
+			</Color>
+		</Category>
+	</Theme>
+</Themes>

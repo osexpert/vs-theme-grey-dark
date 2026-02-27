@@ -1,7 +1,14 @@
 # Grey Dark Theme
 A lower contrast dark grey theme for Visual Studio 2026
 
-Based on https://github.com/gluks/vs-theme-grey-dark
+Difference compared to base: Visible White Space is changed to RGB 100,100,100 (FF646464)
+
+In store https://marketplace.visualstudio.com/items?itemName=ContosoCorporation.GreyDarkTheme2026
+
+Based on https://github.com/gluks/vs-theme-grey-dark 
+
+https://marketplace.visualstudio.com/items?itemName=gluk.grey-dark-theme
+
 Based on [Dark 2019 theme](https://github.com/madskristensen/DarkTheme2019)
 
 ## Font

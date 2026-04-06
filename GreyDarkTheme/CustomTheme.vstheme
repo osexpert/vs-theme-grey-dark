@@ -3099,7 +3099,7 @@
         <Foreground Type="CT_RAW" Source="FFD53230" />
       </Color>
       <Color Name="PageBackground">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF383838" />
       </Color>
       <Color Name="StatusBannerWarning">
         <Background Type="CT_RAW" Source="FFFFF4CE" />
